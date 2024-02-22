@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.0.3/css/pico.classless.min.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><img style="max-height: 48px;" src="/assets/images/logoColoredTransparent.png" alt="daarb logo"></li>
+        <li><strong>daarb.dev</strong></li>
+
+      </ul>
+      <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/contact"><button>Contact me</button></a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <main style="max-width: 768px;">
+    {{ content }}
+  </main>
+</body>
+
+</html>
