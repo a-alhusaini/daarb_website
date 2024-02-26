@@ -7,6 +7,8 @@ layout: default
 
 I'm Abdullah Alhusaini, I've been developing software for a few years, some of the languages I've used in the past include JavaScript, Python, Go, and Elixir.
 
+![futuristic computers](/assets/images/devices.jpeg)
+
 ## Good software is simple
 
 Good software has a simple UI - like this website - I like to keep things simple, no one wants to navigate through a website/app with millions of menus.
