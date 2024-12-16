@@ -10,6 +10,5 @@ You can reach out to me by:
 <div class="group">
 
 {% include link_button.html href="https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/" value="Connect With Me On Linkedin" %}
-{% include link_button.html href="https;//twitter.com/a_a_alhusaini" value="Connect With Me On X" %}
 
 </div>
