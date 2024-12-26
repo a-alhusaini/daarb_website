@@ -43,30 +43,4 @@ I'd love to share more projects. But attention spans are short in our day and ag
 
 ## Can I work with you?
 
-Certainly! At the moment, I offer 3 services
-
-### PermaSites
-
-PermaSites is a special method for businesses and ecommerce stores to host their sites. Here's how it works:
-
-- You get in touch with me and I develop a custom website that perfectly fits your business needs, **FOR FREE**.
-- You can ask me to change and customize your website as much as you want, **FOR FREE**.
-- I maintain the website for you, **FOREVER**.
-
-Instead of paying thousands of dollars for a developer who then charges you even more money to make changes. I switched things up to help your business thrive!
-
-Instead of getting charged for every little change you want. You only have to pay a monthly subscription fee of $199 USD.
-
-[Want to have an awesome website up and running with 0 effort? Contact me to get started!](/contact)
-
-### Custom Software Development
-
-Some businesses need custom software to be built to reach their goals. Not every requirement can be met with a simple website or ecommerce store. For custom work, [please contact me to get a quote](/contact).
-
-### Consulting
-
-Are you exploring a possible project or idea? Maybe you want a Proof-of-Concept to test a theory? This is where the consulting service comes in. We can get on a call where we discuss your technical challenges and come up with solutions to solve them.
-
-Because I'm so confident in my ability to deliver results. I'm giving you the first 30 minutes of consulting for free!
-
-[Contact me to start our session!](/contact)
+[Contact me!](/contact)
