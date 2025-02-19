@@ -20,7 +20,6 @@ I'm a developer in Riyadh, passionate about creating user-friendly tools. I beli
 
 * **Summary:** An AI that learns instantly. We won first place at the MENA region's largest AI hackathon. DevAgent quickly processes and understands data, providing accurate responses without extensive training.
 * **Technical:** Python, Go, JavaScript. Proprietary machine learning techniques for rapid data ingestion and analysis.
-* **Call to Action:** [Contact me](/contact) for a custom demo.
 
 ### [DaarbNotes:](https://github.com/a-alhusaini/daarbnotes)
 
